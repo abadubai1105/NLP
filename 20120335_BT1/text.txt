@@ -1,0 +1,60 @@
+Student: 20120001 - Nguyen Huu Nam
+    GPA=9.0, Telephone=0919-888-746
+    Email=nhnamg@student.hcmus.edu.vn
+    DOB=07/10/2001
+    Address=District 3, Ho Chi Minh city
+    Website= http://fb.com/huunam001
+Student: 20120002 - Tran Toan Thang
+    GPA=7.56, Telephone=0911-333-708
+    Email=tthang@student.hcmus.edu.vn
+    DOB=23/09/2003
+    Address=District 1, Ho Chi Minh city 
+    Website= http://fb.com/toanthang002
+Student: 20120003 - Pham Anh Toan
+    GPA=8.12, Telephone=0977-161-237
+    Email=patoan@student.hcmus.edu.vn
+    DOB=12/06/2002
+    Address=Bin Tan District, Ho Chi Minh city
+    Website= http://fb.com/anhtoan003
+Student: 20120004 - Nguyen Thi Hue
+    GPA=8.90, Telephone=0937-161-123
+    Email=nthue@student.hcmus.edu.vn
+    DOB=12/06/2001
+    Address=Bin Thanh District, Ho Chi Minh city
+    Website= http://fb.com/thihue004
+Student: 20120005 - Phan Thi Cuc
+    GPA=9.12, Telephone=0999-161-456
+    Email=ptcuc@student.hcmus.edu.vn
+    DOB=25/12/2001
+    Address=District 5, Ho Chi Minh city
+    Website= http://fb.com/thicuc005
+Student: 20120006 - Ho Van Tai
+    GPA=8.0, Telephone=0977-999-789
+    Email=hvtai@student.hcmus.edu.vn
+    DOB=17/05/2001
+    Address=Binh Chanh District, Ho Chi Minh city
+    Website= http://fb.com/vantai006
+Student: 20120007 - Tran Van Cuong
+    GPA=3.65, Telephone=0919-155-276
+    Email=tvcuong@student.hcmus.edu.vn
+    DOB=11/11/2002
+    Address=District 1, Ho Chi Minh city
+    Website= http://fb.com/vancuong007
+Student: 20120008 - Phan Thien Huy
+    GPA=4.12, Telephone=0999-998-888
+    Email=pthuy@student.hcmus.edu.vn
+    DOB=15/02/2002
+    Address=District 4, Ho Chi Minh city
+    Website= http://fb.com/thienhuy008
+Student: 20120009 - Dinh Van Tuan
+    GPA=7.81, Telephone=0988-151-234
+    Email=dvtuan@student.hcmus.edu.vn
+    DOB=11/05/2000
+    Address=District 6, Ho Chi Minh city
+    Website= http://fb.com/vantuan009
+Student: 20120010 - Ly Vuong Bang
+    GPA=5.61, Telephone=0833-111-111
+    Email=lvbang@student.hcmus.edu.vn
+    DOB=02/06/2000
+    Address=District 3, Ho Chi Minh city
+    Website= http://fb.com/vuongbang010
